@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6e387802-8bb1-4851-8b81-20b5d1ff962d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../HikerWebsiteIndieProject" beforeDir="false" afterPath="$PROJECT_DIR$/../HikerWebsiteIndieProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gov/noaa/NdfdXMLBindingStubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gov/noaa/NdfdXMLBindingStubTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../customtags" beforeDir="false" afterPath="$PROJECT_DIR$/../customtags" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soapservicedemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soapservicedemo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soapservicedemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soapservicedemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tagtest" beforeDir="false" afterPath="$PROJECT_DIR$/../tagtest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week1-user-display-exercise-drmiller1" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-user-display-exercise-drmiller1" afterDir="false" />
@@ -24,39 +27,40 @@
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="476" />
+          <entry key="java" value="734" />
           <entry key="xml" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="476" />
+          <entry key="JAVA" value="734" />
           <entry key="XML" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="8" />
+          <entry key="java" value="10" />
           <entry key="wsdl" value="1" />
-          <entry key="xml" value="3" />
-          <entry key="xsd" value="2" />
+          <entry key="xml" value="6" />
+          <entry key="xsd" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="8" />
-          <entry key="XML" value="6" />
+          <entry key="JAVA" value="10" />
+          <entry key="XML" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -66,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gov/noaa/DwmlType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
+            <state relative-caret-position="242">
               <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -78,8 +82,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/gov/noaa/NdfdXMLBindingStubTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="240">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +102,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
   </component>
   <component name="IdeDocumentHistory">
@@ -145,6 +152,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,6 +178,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoapActivity3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoapActivity3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="noaa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SoapActivity3" type="b2602c69:ProjectViewProjectNode" />
@@ -202,15 +219,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541132241388" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541214823635" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -280,45 +295,50 @@
       <workItem from="1541132829718" duration="894000" />
       <workItem from="1541205872130" duration="1511000" />
       <workItem from="1541207599060" duration="643000" />
+      <workItem from="1541209629148" duration="5355000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 20h 59m 00s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 20h 54m 52s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 22h 43m 07s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 21h 09m 17s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 22h 45m 52s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 21h 12m 19s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 22h 50m 54s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 21h 24m 33s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 23h 05m 18s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 21h 46m 02s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 23h 06m 46s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 21h 48m 24s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 23h 08m 00s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 21h 59m 04s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 23h 15m 47s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 22h 13m 49s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.01 at 23h 17m 53s.xml">
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 22h 16m 41s.xml">
+      <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NdfdXMLBindingStubTest_latLonListZipCode - 2018.11.02 at 22h 16m 42s.xml">
       <configuration name="NdfdXMLBindingStubTest.latLonListZipCode" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13849000" />
+    <option name="totallyTimeSpent" value="19204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26932272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27410358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -328,12 +348,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27329192" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22826087" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32919255" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
@@ -345,7 +365,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="JSF" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.32988048" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32988048" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -374,25 +394,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gov/noaa/NdfdXMLBindingStub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gov/noaa/NdfdXML.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1003">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/response.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/response.xsd">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -415,9 +422,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/response.xsd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/response.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gov/noaa/NdfdXMLBindingStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gov/noaa/DwmlType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state relative-caret-position="242">
           <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -427,8 +447,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/gov/noaa/NdfdXMLBindingStubTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="240">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

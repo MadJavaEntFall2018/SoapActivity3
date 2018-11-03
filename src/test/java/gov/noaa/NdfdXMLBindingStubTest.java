@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
 import java.io.File;
+import java.io.StringReader;
 
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -20,7 +21,7 @@ class NdfdXMLBindingStubTest {
         Unmarshaller jaxbUnmarshaller = jaxbContext.createUnmarshaller();
 
         // specify the location and name of xml file to be read
-        File XMLfile = new File("src/main/resources/response.xsd");
+        File XMLfile = new File("src/main/resources/response.xml");
         DwmlType dwml = (DwmlType) jaxbUnmarshaller.unmarshal(XMLfile);
         assertEquals(dwml.getLatLonList(), result);
         //assertEquals("dwml", result);
